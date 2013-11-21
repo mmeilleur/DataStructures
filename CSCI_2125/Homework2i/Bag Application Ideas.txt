@@ -1,0 +1,4 @@
+Two applications that require a bag:
+
+Any digital shopping cart would be best implemented with a Bag.
+Any container that holds contest entries that don't restrict number of entries (like a raffle).

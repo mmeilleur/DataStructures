@@ -1,0 +1,38 @@
+remove (ele, quantity)
+if ele isMember, remove (quantity) instances from the bag
+if instances < quantity, remove all
+
+removeAll (ele)
+iterate through entire list and remove any occurances of ele
+
+removeAll ()
+this.newBag ()
+
+contains (Bag otherBag)
+iterate through list
+if isMember(otherIterator.get()), true
+
+isEmpty ()
+size == 0
+
+union (Bag otherBag)
+copy bag
+iterate through otherBag
+add each element, quantity
+
+intersection (Bag otherBag)
+newBag()
+iterate through both bags, add (element) that occur in both
+
+count (ele)
+iterate through list, add 1 to count for each ele
+
+toString ()
+iterate through list, add iter.get to concat String
+
+add (ele, quantity)
+add ele in a loop with quantity iterations
+
+copy ()
+newBag()
+iterate through Bag, add each element to newBag
